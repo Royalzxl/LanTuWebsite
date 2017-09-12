@@ -1,0 +1,91 @@
+@media all and (max-width: 1500px)and (min-width: 1200px){
+    #wrap{
+        height: 560px;
+    }
+    #wrap .img{
+        width: 1000px;
+        padding-top: 133px;
+    }
+    #join .j-title{
+        width:520px;
+    }
+}
+@media all and (max-width: 1200px)and (min-width: 900px){
+    #wrap{
+        height: 450px;
+    }
+    #wrap .img{
+        width: 800px;
+        padding-top: 109px;
+    }
+    #join .j-title{
+        width:443px;
+    }
+}
+@media all and (max-width: 900px){
+    #wrap{
+        margin-top: 106px;
+    }
+}
+@media all and (max-width: 900px)and (min-width: 600px){
+    #wrap{
+        height: 350px;
+    }
+    #wrap .img{
+        width: 600px;
+        padding-top: 93px;
+    }
+    #join .j-title{
+        width:405px;
+    }
+    #footer{
+        height:130px;
+    }
+    #footer .f-main{
+        width:244px;
+        height:100%;
+        line-height: 40px;
+    }
+    #footer .f-main li{
+        float: none;
+    }
+}
+@media all and (max-width: 600px){
+    #wrap{
+        height: 200px;
+    }
+    #wrap .img{
+        width: 320px;
+        padding-top: 63px;
+    }
+    #join .j-title{
+        width:278px;
+    }
+    #join .j-main{
+        width: 320px;
+    }
+    #join .j-main .j-m-list{
+        font-size: 13px;
+    }
+    #join .j-main .j-m-list p{
+        font-size: 16px;
+        text-align: center;
+    }
+
+    #join .j-main .referral,#join .j-main .phone{
+        font-size: 13px;
+        line-height: 22px;
+    }
+    #footer{
+        height:120px;
+    }
+    #footer .f-main{
+        width:244px;
+        height:100%;
+        line-height: 35px;
+    }
+    #footer .f-main li{
+        float: none;
+        font-size: 12px;
+    }
+}
